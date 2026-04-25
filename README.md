@@ -1,64 +1,60 @@
-<h1 align="center">Hi 👋, I'm</h1>
+<h2 align="center">Hi 👋, I'm</h2>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=40&duration=2500&color=00F7FF&center=true&vCenter=true&lines=Jainam+Sheth;Python+Developer;Django+Builder" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2500&color=00FFAA&center=true&vCenter=true&lines=Jainam+Sheth;Django+Developer;Backend+Builder" />
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/Focus-Building%20Real%20Projects-00F7FF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Code-Python%20%7C%20Django-blue?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Goal-Full%20Stack%20Developer-ff69b4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Django-Developer-092E20?style=flat-square&logo=django&logoColor=green"/>
+<img src="https://img.shields.io/badge/Python-Backend-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Focus-Real%20Projects-00FFAA?style=flat-square"/>
 </p>
 
 ---
 
-## 🧠 About Me
-- 💻 Passionate about building real-world applications  
-- 🛒 Working on **Green Basket (E-Commerce Website)**  
-- 🤖 Exploring **AI + Web Integration**  
-- 🚀 Growing every single day  
+### 🧠 About Me
+- 💻 Django backend developer  
+- 🛒 Building **Green Basket (E-Commerce)**  
+- 🤖 Exploring AI + web apps  
+- 📈 Learning & improving daily  
 
 ---
 
-## 🛠 Tech Stack
+### ⚙️ Tech Stack
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python,django,js,html,css,react,mysql,sqlite" />
 </p>
 
 ---
 
-## 🚀 Featured Projects
-- 🛒 **Green Basket** – Grocery E-Commerce Platform  
-- 🚗 **Showroom Website**  
-- 🤖 **Mood-Based Recommendation System**  
+### 🚀 Projects
+- 🛒 Green Basket  
+- 🚗 Showroom Website  
+- 🤖 Recommendation System  
 
 ---
 
-## 📊 GitHub Stats
+### 📊 GitHub Stats
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Jainam06sheth&show_icons=true&theme=tokyonight&hide_border=true" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Jainam06sheth&theme=tokyonight&hide_border=true" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Jainam06sheth&show_icons=true&theme=tokyonight&hide_border=true" />
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Jainam06sheth&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-## 🧩 Activity Graph
+### 🔗 Connect
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Jainam06sheth&theme=tokyo-night&hide_border=true" />
-</p>
-
----
-
-## 🔥 Connect With Me
-<p align="center">
-<a href="https://www.instagram.com/tech_stories_by_jainam" target="_blank">
-<img src="https://img.shields.io/badge/🔥%20Instagram%20Profile-Click%20Here-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+<a href="https://www.instagram.com/tech_stories_by_jainam">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/>
+</a>
+<a href="https://www.linkedin.com/in/jainam-sheth-2006a0201jms">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
 </a>
 </p>
 
 ---
 
-## ⚡ Developer Quote
+### ⚡ Quote
 <p align="center">
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </p>
