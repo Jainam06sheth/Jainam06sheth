@@ -13,7 +13,6 @@
 ## 💻 What I Do
 ✔ Build E-Commerce Websites  
 ✔ Create Backend Systems  
-✔ Experiment with AI features  
 
 ---
 
