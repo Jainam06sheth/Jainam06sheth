@@ -1,6 +1,6 @@
 # ⚡ Jainam | Developer in Progress
 <!-- 🔥 Banner -->
-![Banner](https://your-banner-link.png)
+![Banner](https://raw.githubusercontent.com/Jainam06sheth/Jainam06sheth/main/banner.png)
 
 <h1 align="center">Hi 👋, I'm Jainam Sheth</h1>
 
