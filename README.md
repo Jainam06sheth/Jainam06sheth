@@ -1,43 +1,60 @@
-<!-- =========================
-🔥 HERO SECTION
-========================= -->
-
+<!-- 🔥 NAME -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=42&duration=2500&color=00F7FF&center=true&vCenter=true&width=900&lines=Jainam+Sheth;Python+Full+Stack+Developer;Django+Backend+Specialist;Building+Real+World+Projects" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=42&duration=2500&color=00F7FF&center=true&vCenter=true&lines=Jainam+Sheth" />
 </p>
 
+<!-- ✨ TAGLINE -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Jainam06sheth&label=Profile%20Views&color=00F7FF&style=for-the-badge" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&color=aaaaaa&center=true&vCenter=true&lines=Python+Full+Stack+Developer;Django+Backend+Specialist;Building+Real+World+Projects" />
 </p>
 
-<p align="center">
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-</p>
+<p align="center">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-<!-- =========================
-⚡ BADGES
-========================= -->
+---
 
+## 🧠 About Me
+- 💻 Python Full Stack Developer  
+- 🧩 Django Backend Specialist  
+- 🛒 Building **Green Basket (E-Commerce Platform)** 
+ 
+- 📈 Focused on real-world project development & backend systems  
+- ⚙️ Continuously improving system design & logic building  
+
+---
+
+## ⚙️ Tech Stack
 <p align="center">
-  <img src="https://img.shields.io/badge/Backend-Django-092E20?style=for-the-badge&logo=django&logoColor=green"/>
-  
-  <img src="https://img.shields.io/badge/Language-Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  
-  <img src="https://img.shields.io/badge/Focus-Real%20Projects-444444?style=for-the-badge"/>
+  <img src="https://skillicons.dev/icons?i=python,django,js,html,css,react,mysql,sqlite,git,github" />
 </p>
 
 ---
 
-# 🧠 About Me
+## 🚀 Projects
 
-```python
-class JainamSheth():
+### 🛒 Green Basket
+E-Commerce grocery platform  
+- Product listing & management  
+- Cart & order flow  
+- Backend logic with Django  
 
-    def __init__(self):
-        self.role = "Python Full Stack Developer"
-        self.learning = ["Django", "REST APIs", "React"]
-        self.project = "Green Basket E-Commerce"
-        self.goal = "Building scalable real-world applications"
+### 🚗 Showroom Website
+- Responsive UI design  
+- Backend integration  
+- Inventory-style structure  
 
-    def mindset(self):
-        return "Clean Code • Consistency • Growth"
+### 🏥 DoctorFinder
+- Doctor listing system  
+- Search & filtering features  
+- Backend API structure  
+
+### ⚙️ Backend Systems
+- Django-based core logic projects  
+- Authentication systems  
+- API development practice  
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Jainam06sheth&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Jainam06sheth&theme=tokyonight
