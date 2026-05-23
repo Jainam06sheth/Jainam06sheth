@@ -4,8 +4,7 @@
 
 <p align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=42&duration=2500&color=00F7FF&center=true&vCenter=true&width=900&lines=Jainam+Sheth;Python+Full+Stack+Developer;Django+Backend+Specialist;Building+Scalable+Web+Applications" />
-
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=42&duration=2500&color=00F7FF&center=true&vCenter=true&width=900&lines=Jainam+Sheth;Python+Full+Stack+Developer+%7C+Django+Backend+Developer+%7C+REST+API+Engineer" />
 </p>
 
 <p align="center">
