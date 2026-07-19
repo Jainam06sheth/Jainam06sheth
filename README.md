@@ -15,8 +15,7 @@
 ## 🧠 About Me
 - 💻 Python Full Stack Developer  
 - 🧩 Django Backend Specialist  
-- 🛒 Building **Green Basket (E-Commerce Platform)** 
- 
+   
 - 📈 Focused on real-world project development & backend systems  
 - ⚙️ Continuously improving system design & logic building  
 
@@ -30,17 +29,6 @@
 ---
 
 ## 🚀 Projects
-
-### 🛒 Green Basket
-E-Commerce grocery platform  
-- Product listing & management  
-- Cart & order flow  
-- Backend logic with Django  
-
-### 🚗 Showroom Website
-- Responsive UI design  
-- Backend integration  
-- Inventory-style structure  
 
 ### 🏥 DoctorFinder
 - Doctor listing system  
