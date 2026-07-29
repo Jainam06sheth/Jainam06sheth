@@ -53,7 +53,7 @@
 ## 🔗 Connect With Me
 <p align="center">
 
-<a href="https://www.instagram.com/tech_stories_positively">
+<a href="https://www.instagram.com/techstoriespositively">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
